@@ -2,6 +2,10 @@
 
 Project ini digunakan untuk praktek mata kuliah PBO.
 
+Nama: Rani Trisnawati Sianipar
+
+NPM: 2015804357
+
 ## Instalasi
 
 - import file `db.sql` ke mariadb,
